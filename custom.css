@@ -1,6 +1,6 @@
 @media (max-width: 767px) {
   .card {
-    width: 100% !important; /* Stack cards vertically on small screens */
+    width: 50% !important; /* Stack cards vertically on small screens */
     margin-bottom: 1rem;
   }
 }
