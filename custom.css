@@ -1,5 +1,5 @@
 @media (max-width: 767px) {
-  .card.sc-ion-label-md {
+  .card {
     width: 100% !important; /* Stack cards vertically on small screens */
     margin-bottom: 1rem;
   }
